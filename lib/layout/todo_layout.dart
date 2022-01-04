@@ -3,11 +3,11 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:intl/intl.dart';
-import 'package:todo_app/shared/adaptive/adaptivw_indicator.dart';
-import 'package:todo_app/shared/components/componets.dart';
-import 'package:todo_app/shared/components/constants.dart';
-import 'package:todo_app/shared/cubit/cubit.dart';
-import 'package:todo_app/shared/cubit/states.dart';
+import 'package:netguru_values/shared/adaptive/adaptivw_indicator.dart';
+import 'package:netguru_values/shared/components/componets.dart';
+import 'package:netguru_values/shared/components/constants.dart';
+import 'package:netguru_values/shared/cubit/cubit.dart';
+import 'package:netguru_values/shared/cubit/states.dart';
 
 class HomeLayout extends StatelessWidget {
   var titleController = TextEditingController();

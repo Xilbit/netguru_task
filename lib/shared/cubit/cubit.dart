@@ -3,11 +3,11 @@ import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:sqflite/sqflite.dart';
-import 'package:todo_app/modules/archive/archive.dart';
-import 'package:todo_app/modules/done/done.dart';
-import 'package:todo_app/modules/tasks/tasks.dart';
-import 'package:todo_app/shared/cubit/states.dart';
-import 'package:todo_app/shared/network/local/cache_helper.dart';
+import 'package:netguru_values/modules/archive/archive.dart';
+import 'package:netguru_values/modules/done/done.dart';
+import 'package:netguru_values/modules/tasks/tasks.dart';
+import 'package:netguru_values/shared/cubit/states.dart';
+import 'package:netguru_values/shared/network/local/cache_helper.dart';
 
 class AppCubit extends Cubit<AppStates> {
   AppCubit() : super(AppInitialState());

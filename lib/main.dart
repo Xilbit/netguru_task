@@ -2,12 +2,12 @@ import 'package:easy_dynamic_theme/easy_dynamic_theme.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:splashscreen/splashscreen.dart';
-import 'package:todo_app/layout/todo_layout.dart';
-import 'package:todo_app/shared/bloc_observer.dart';
-import 'package:todo_app/shared/cubit/cubit.dart';
-import 'package:todo_app/shared/cubit/states.dart';
-import 'package:todo_app/shared/network/local/cache_helper.dart';
-import 'package:todo_app/shared/styles/themes.dart';
+import 'package:netguru_values/layout/todo_layout.dart';
+import 'package:netguru_values/shared/bloc_observer.dart';
+import 'package:netguru_values/shared/cubit/cubit.dart';
+import 'package:netguru_values/shared/cubit/states.dart';
+import 'package:netguru_values/shared/network/local/cache_helper.dart';
+import 'package:netguru_values/shared/styles/themes.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();

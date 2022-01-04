@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:hexcolor/hexcolor.dart';
-import 'package:todo_app/shared/styles/colors.dart';
+import 'package:netguru_values/shared/styles/colors.dart';
 
 ThemeData darkTheme = ThemeData(
   primarySwatch: defaultColor,

@@ -4,9 +4,9 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 import 'package:percent_indicator/circular_percent_indicator.dart';
-import 'package:todo_app/shared/cubit/cubit.dart';
-import 'package:todo_app/shared/styles/colors.dart';
-import 'package:todo_app/shared/styles/icon_broken.dart';
+import 'package:netguru_values/shared/cubit/cubit.dart';
+import 'package:netguru_values/shared/styles/colors.dart';
+import 'package:netguru_values/shared/styles/icon_broken.dart';
 import 'package:slimy_card/slimy_card.dart';
 
 

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:todo_app/shared/components/componets.dart';
-import 'package:todo_app/shared/cubit/cubit.dart';
-import 'package:todo_app/shared/cubit/states.dart';
+import 'package:netguru_values/shared/components/componets.dart';
+import 'package:netguru_values/shared/cubit/cubit.dart';
+import 'package:netguru_values/shared/cubit/states.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
 
